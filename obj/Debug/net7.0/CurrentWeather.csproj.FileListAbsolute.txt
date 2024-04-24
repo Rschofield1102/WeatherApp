@@ -1,0 +1,17 @@
+/Users/lee/Desktop/repos/CurrentWeather/CurrentWeather/bin/Debug/net7.0/CurrentWeather
+/Users/lee/Desktop/repos/CurrentWeather/CurrentWeather/bin/Debug/net7.0/CurrentWeather.deps.json
+/Users/lee/Desktop/repos/CurrentWeather/CurrentWeather/bin/Debug/net7.0/CurrentWeather.runtimeconfig.json
+/Users/lee/Desktop/repos/CurrentWeather/CurrentWeather/bin/Debug/net7.0/CurrentWeather.dll
+/Users/lee/Desktop/repos/CurrentWeather/CurrentWeather/bin/Debug/net7.0/CurrentWeather.pdb
+/Users/lee/Desktop/repos/CurrentWeather/CurrentWeather/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/lee/Desktop/repos/CurrentWeather/CurrentWeather/obj/Debug/net7.0/CurrentWeather.csproj.AssemblyReference.cache
+/Users/lee/Desktop/repos/CurrentWeather/CurrentWeather/obj/Debug/net7.0/CurrentWeather.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lee/Desktop/repos/CurrentWeather/CurrentWeather/obj/Debug/net7.0/CurrentWeather.AssemblyInfoInputs.cache
+/Users/lee/Desktop/repos/CurrentWeather/CurrentWeather/obj/Debug/net7.0/CurrentWeather.AssemblyInfo.cs
+/Users/lee/Desktop/repos/CurrentWeather/CurrentWeather/obj/Debug/net7.0/CurrentWeather.csproj.CoreCompileInputs.cache
+/Users/lee/Desktop/repos/CurrentWeather/CurrentWeather/obj/Debug/net7.0/CurrentWeather.csproj.CopyComplete
+/Users/lee/Desktop/repos/CurrentWeather/CurrentWeather/obj/Debug/net7.0/CurrentWeather.dll
+/Users/lee/Desktop/repos/CurrentWeather/CurrentWeather/obj/Debug/net7.0/refint/CurrentWeather.dll
+/Users/lee/Desktop/repos/CurrentWeather/CurrentWeather/obj/Debug/net7.0/CurrentWeather.pdb
+/Users/lee/Desktop/repos/CurrentWeather/CurrentWeather/obj/Debug/net7.0/CurrentWeather.genruntimeconfig.cache
+/Users/lee/Desktop/repos/CurrentWeather/CurrentWeather/obj/Debug/net7.0/ref/CurrentWeather.dll
